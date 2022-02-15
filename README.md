@@ -1,6 +1,6 @@
 ###  Hi there, I'm Mayur 👋
 
-## I'm a passionate Data Science Engineer  🚀
+## I'm a passionate Data Science Engineer   🚀
 
 - 🔭 I'm currently working in NICE Ltd. Job role is implementation of customized projects which includes installation, integration and configuration.
 - 🌱 I’m currently learning Machine Learning and Data Science   :technologist:
