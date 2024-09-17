@@ -174,20 +174,20 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 100px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 50px;">
   <!-- First box (Streak Stats) -->
   <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdalvi5&" alt="mayurdalvi5" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdalvi5&" alt="mayurdalvi5" style="width: 400px; height: auto;" />
   </div>
 
   <!-- Second box (GitHub Stats) -->
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurdalvi5&show_icons=true&locale=en" alt="mayurdalvi5" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayurdalvi5&show_icons=true&locale=en" alt="mayurdalvi5" style="width: 400px; height: auto;" />
   </div>
-</div>
 
-<!-- Third box (Languages) Centered Below -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img align="center" height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurdalvi5&show_icons=true&locale=en&layout=compact" alt="mayurdalvi5" />
+  <!-- Third box (Top Languages Stats) -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurdalvi5&show_icons=true&locale=en&layout=compact" alt="mayurdalvi5" style="width: 400px; height: auto;" />
+  </div>
 </div>
 
